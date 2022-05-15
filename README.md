@@ -1,4 +1,5 @@
 # Rule
+## Difference from others
 Go is to mark out their respective territories(囲碁は陣地を固め合う)
 
 Shogi makes full use of people(将棋はメンバーを駆使し合う)
@@ -10,6 +11,9 @@ Go puts pieces(囲碁は置く)
 Shogi moves pieces(将棋は動かす)
 
 This game rotate pieces(このゲームは回す)
+
+## ゲームの名称
+* Toki(途棊)
 
 ## Purpose(目的)
 * You win by taking the ball(相手の玉を取る)
