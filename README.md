@@ -1,5 +1,5 @@
 # Rule
-## Difference from others
+## Difference from others(他のボードゲームとの違い)
 Go is to mark out their respective territories(囲碁は陣地を固め合う)
 
 Shogi makes full use of people(将棋はメンバーを駆使し合う)
