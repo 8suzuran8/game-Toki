@@ -43,4 +43,3 @@ Leaves, stones, nuts(落ち葉、石、木の実)
 
 ## After moving(駒の移動後の処理)
 * If there is an opponent in that square, remove it from the game(相手の人が居た場合はゲームから除外)
-  * The ball is not affected by the road(玉は道の影響を受けない)
