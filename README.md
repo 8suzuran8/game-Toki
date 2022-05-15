@@ -12,6 +12,9 @@ Shogi moves pieces(将棋は動かす)
 
 This game rotate pieces(このゲームは回す)
 
+## Approximate image drawing(大体のイメージ図)
+<img width="300" alt="screenshot" src="https://user-images.githubusercontent.com/95464364/168455902-f6ef38fa-af5b-4dbf-ad79-edeac3a1c3b6.png">
+
 ## ゲームの名称
 * Toki(途棊)
 
