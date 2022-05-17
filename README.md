@@ -13,9 +13,9 @@ Shogi moves pieces(将棋は動かす)
 This game rotate pieces(このゲームは回す)
 
 ## Approximate image drawing(大体のイメージ図)
-<img width="300" alt="screenshot" src="https://user-images.githubusercontent.com/95464364/168455902-f6ef38fa-af5b-4dbf-ad79-edeac3a1c3b6.png">
+<img width="300" alt="screenshot" src="https://user-images.githubusercontent.com/95464364/168738953-64db8eb7-0aa8-411d-9cec-0f66c658a2cc.png">
 
-## ゲームの名称
+## Game name(ゲームの名称)
 * Toki(途棊)
 
 ## Purpose(目的)
@@ -41,8 +41,7 @@ Leaves, stones, nuts(落ち葉、石、木の実)
 * The ball advances in all directions(玉は八方に進める)
   * The ball is not affected by the road(玉は道の影響を受けない)
 
-<img width="300" alt="move of pieces" src="https://user-images.githubusercontent.com/95464364/168456689-fec97f48-d07a-4d52-8fd1-a20824dd3116.png">
-
+<img width="300" alt="move of pieces" src="https://user-images.githubusercontent.com/95464364/168739040-683621ee-bdd2-466b-9d1d-705d103f9d7e.png">
 
 ## After moving(駒の移動後の処理)
 * If there is an opponent in that square, remove it from the game(相手の人が居た場合はゲームから除外)
