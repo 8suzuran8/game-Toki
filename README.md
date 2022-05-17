@@ -41,7 +41,7 @@ Leaves, stones, nuts(落ち葉、石、木の実)
 * The ball advances in all directions(玉は八方に進める)
   * The ball is not affected by the road(玉は道の影響を受けない)
 
-<img width="300" alt="move of pieces" src="https://user-images.githubusercontent.com/95464364/168739040-683621ee-bdd2-466b-9d1d-705d103f9d7e.png">
+<img width="300" alt="move of pieces" src="https://user-images.githubusercontent.com/95464364/168741124-c453b5c9-ae5b-4b76-81f4-dfe15830bfa0.png">
 
 ## After moving(駒の移動後の処理)
 * If there is an opponent in that square, remove it from the game(相手の人が居た場合はゲームから除外)
